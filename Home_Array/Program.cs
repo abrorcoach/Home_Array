@@ -111,24 +111,36 @@ internal class Program
 
         //////////////////////////////////////// 10)
 
-        int[] num = { 41, 21, 33, 4, 31, 43};
-        int left = 0;
-        int right = num.Length-1;
+        //int[] num = { 41, 21, 33, 4, 31, 43};
+        //int left = 0;
+        //int right = num.Length-1;
 
-        while (left < right)
-        {
-            int temp = num[left];
-            num[left] = num[right];
-            num[right] = temp;
+        //while (left < right)
+        //{
+        //    int temp = num[left];
+        //    num[left] = num[right];
+        //    num[right] = temp;
 
-            left++;
-            right--;
-        }
+        //    left++;
+        //    right--;
+        //}
         
-        foreach (int i in num)
+        //foreach (int i in num)
+        //{
+        //    Console.WriteLine(i);
+        //}
+
+
+
+        int[][] num = new int[3][]
         {
-            Console.WriteLine(i);
-        }
+            [12,32,12,65,1],
+            [32,12,12,32,12],
+            [11,23,29,34,8]
+        };
+
+
+        ////////////////////////////////////
     }
 
     public void Examples()
