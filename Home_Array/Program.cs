@@ -9,11 +9,11 @@ internal class Program
         /////////////////////////////////////// 1)
 
         //string[][] task1 = new string[3][]
-        //{
+        //   {
         //    ["car","home","table"],
         //    ["phone","mouse","bottle"],
         //    ["handphone","keeyboard","hat"],
-        //};
+        //   };
 
         //GetClass.ShowOnTheWindowArray(task1);
 
