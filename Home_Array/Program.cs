@@ -168,6 +168,12 @@ internal class Program
         //    { 15, 16, 17, 18, 19 },
         //    { 20, 21, 22, 23, 24 }
         //};
+
+        //    int N = matrix.GetLength(0);
+        //    int middle = N / 2;
+        //    int sum = 0;
+
+
     }
 
     public void Examples()
