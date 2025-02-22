@@ -132,12 +132,25 @@ internal class Program
 
 
 
-        int[][] num = new int[3][]
-        {
-            [12,32,12,65,1],
-            [32,12,12,32,12],
-            [11,23,29,34,8]
-        };
+        //int[][] num = new int[3][]
+        //{
+        //    [12,32,12,65,1],
+        //    [32,12,12,32,12],
+        //    [11,23,29,34,8]
+        //};
+        //int max = num[0][0];
+
+        //for (int i = 0; i < num.Length; i++)
+        //{
+        //    for (int j = 0; j < num[i].Length; j++)
+        //    {
+        //        if (max < num[i][j])
+        //        {
+        //            max = num[i][j];
+        //        }
+        //    }
+        //}
+        //Console.WriteLine(max * 100);
 
 
         ////////////////////////////////////
