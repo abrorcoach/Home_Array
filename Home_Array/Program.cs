@@ -268,7 +268,19 @@ internal class Program
         //}
         //Console.WriteLine(max);
 
+        /////////////////////////////////
 
+        //int[] res = new int[3];
+
+        //int[][] FindMax = new int[3][]
+        //{
+        //     [12,43,67,23,9],
+        //     [34,65,11,10,7],
+        //     [15,19,95,34,3]
+        //};
+        //int sum;
+        //int min = res[0];
+        //int index =0;
     }
 
     public void Examples()
