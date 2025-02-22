@@ -204,6 +204,12 @@ internal class Program
 
         ////////////////////////////
 
+        //int[] k = { 2, 3, 4, 5, 9, 1, 2, 5, 6 };
+        //int sum = 0;
+
+        //sum = +k[0] + k[1] + k[k.Length - 1] + k[k.Length - 2] + k[k.Length - 3];
+        //Console.WriteLine(sum);
+
     }
 
     public void Examples()
