@@ -240,6 +240,10 @@ internal class Program
         //        break;
         //    }
         //}
+        //if (!isFound)
+        //{
+        //    Console.WriteLine("bu son yoq");
+        //}
 
     }
 
