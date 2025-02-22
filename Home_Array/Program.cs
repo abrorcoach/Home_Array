@@ -183,6 +183,11 @@ internal class Program
         //        sum += matrix[i, i];           // top-left to bottom-right diagonal
         //        sum += matrix[i, N - i - 1];   // top-right to bottom-left diagonal
         //    }
+
+        //    // Remove duplicates at the center if N is odd, as it will be counted multiple times
+        //    sum -= 3 * matrix[middle, middle];
+
+        //    Console.WriteLine("Sum of elements at marked positions: " + sum);
     }
 
     public void Examples()
