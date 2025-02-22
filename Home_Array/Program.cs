@@ -324,5 +324,47 @@ internal class Program
         //    Console.Write($"{num[i]},");
         //}
     }
+    static bool PassWord(string s)
+    {
+        bool SmallLetters = false;
+        bool Numbers = false;
+        bool Dogs = false;
+        bool Dotcom = false;
+
+        if (s.Length <= 8)
+        {
+            return false;
+        }
+
+        for (int i = 0; i < s.Length; i++)
+        {
+            if (s[i] > 97 && s[i] < 122)
+            {
+                SmallLetters = true;
+            }
+            if (s[i] > 48 && s[i] < 57)
+            {
+                Numbers = true;
+            }
+            if (s[i] == 64)
+            {
+                Dogs = true;
+            }
+            if (s[i] == 46)
+            {
+                Dotcom = true;
+            }
+
+        }
+        if (SmallLetters == true && Numbers == true && Dogs == true && Dotcom == true)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+
+    }
 
 }
