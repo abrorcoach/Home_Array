@@ -160,8 +160,14 @@ internal class Program
         //Console.WriteLine(PasswordIsValued(parol));
 
         ////////////////////////////////
-        
 
+        //    int[,] matrix = {
+        //    { 10, 11, 22, 31, 41 },
+        //    { 50, 60, 73, 81, 91 },
+        //    { 10, 11, 12, 13, 14 },
+        //    { 15, 16, 17, 18, 19 },
+        //    { 20, 21, 22, 23, 24 }
+        //};
     }
 
     public void Examples()
