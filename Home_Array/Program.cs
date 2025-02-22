@@ -281,6 +281,17 @@ internal class Program
         //int sum;
         //int min = res[0];
         //int index =0;
+
+        //for (int i = 0; i < FindMax.Length; i++)
+        //{
+        //    sum = 0;
+        //    for(int j = 0; j < FindMax[i].Length; j++)
+        //    {
+        //        sum += FindMax[i][j];
+        //    }
+
+        //    res[i] = sum;
+        //}
     }
 
     public void Examples()
