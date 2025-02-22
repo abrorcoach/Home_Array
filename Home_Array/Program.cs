@@ -221,6 +221,26 @@ internal class Program
         //    [7,10,47,23,87]
         //};
 
+
+        //bool isFound = false;
+
+        //for(int i = 0; i < num.Length; i++)
+        //{
+        //    for(int j = 0; j < num[i].Length; j++)
+        //    {
+        //        if(res == num[i][j])
+        //        {
+        //            Console.WriteLine(res + " bor");
+        //            isFound = true;
+        //            break;
+        //        }
+        //    } 
+        //    if(isFound)
+        //    {
+        //        break;
+        //    }
+        //}
+
     }
 
     public void Examples()
