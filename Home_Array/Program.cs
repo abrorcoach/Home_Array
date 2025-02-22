@@ -197,6 +197,13 @@ internal class Program
 
         ////////////////////////////////
 
+
+        //Console.WriteLine("write");
+        //string res = Console.ReadLine();
+        //number(res);
+
+        ////////////////////////////
+
     }
 
     public void Examples()
