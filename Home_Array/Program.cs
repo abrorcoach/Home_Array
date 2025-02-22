@@ -245,6 +245,16 @@ internal class Program
         //    Console.WriteLine("bu son yoq");
         //}
 
+        ///////////////////////////////////
+
+        //int[][] num = new int[3][]
+        //{
+        //    [12,43,67,23,9],
+        //    [34,65,11,10,7],
+        //    [15,19,65,34,3]
+        //};
+        //int max = num[0][0];
+
     }
 
     public void Examples()
