@@ -367,4 +367,19 @@ internal class Program
 
     }
 
+    static void number(string s2)
+    {
+        int count = 0;
+        for (int i = 0; i < s2.Length; i++)
+        {
+
+            if (s2[i] >= 48 && s2[i] <= 57)
+            {
+                count++;
+            }
+        }
+        Console.WriteLine(count);
+
+    }
+
 }
