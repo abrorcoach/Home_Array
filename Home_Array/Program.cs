@@ -210,6 +210,17 @@ internal class Program
         //sum = +k[0] + k[1] + k[k.Length - 1] + k[k.Length - 2] + k[k.Length - 3];
         //Console.WriteLine(sum);
 
+        //////////////////////////////////////////
+
+        //Console.WriteLine("write number");
+        //int res = int.Parse(Console.ReadLine());
+        //int[][] num = new int[3][]
+        //{
+        //    [12,23,43,56,32],
+        //    [65,76,23,54,98],
+        //    [7,10,47,23,87]
+        //};
+
     }
 
     public void Examples()
