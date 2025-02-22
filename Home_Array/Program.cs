@@ -124,7 +124,7 @@ internal class Program
         //    left++;
         //    right--;
         //}
-        
+
         //foreach (int i in num)
         //{
         //    Console.WriteLine(i);
@@ -154,6 +154,14 @@ internal class Program
 
 
         ////////////////////////////////////
+
+        //Console.WriteLine("parol kiriting");
+        //string parol = Console.ReadLine();
+        //Console.WriteLine(PasswordIsValued(parol));
+
+        ////////////////////////////////
+        
+
     }
 
     public void Examples()
