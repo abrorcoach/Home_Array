@@ -188,6 +188,15 @@ internal class Program
         //    sum -= 3 * matrix[middle, middle];
 
         //    Console.WriteLine("Sum of elements at marked positions: " + sum);
+
+        ///////////////////////////////////////////
+
+        //Console.WriteLine("Write your password");
+        //string pass = Console.ReadLine();
+        //Console.WriteLine(PassWord(pass));
+
+        ////////////////////////////////
+
     }
 
     public void Examples()
