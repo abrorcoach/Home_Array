@@ -292,6 +292,12 @@ internal class Program
 
         //    res[i] = sum;
         //}
+
+        ///////////////////////////
+
+
+        //StringBuilder sb = new StringBuilder("Hello ");
+        //string text = "Abror";
     }
 
     public void Examples()
