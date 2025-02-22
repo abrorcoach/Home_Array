@@ -255,6 +255,20 @@ internal class Program
         //};
         //int max = num[0][0];
 
+        //for (int i = 0; i < num.Length; i++)
+        //{
+        //    for (int j = 0; j < num[i].Length; j++)
+        //    {
+        //        if (max < num[i][j])
+        //        {
+        //            max = num[i][j];
+        //        }
+        //    }
+
+        //}
+        //Console.WriteLine(max);
+
+
     }
 
     public void Examples()
