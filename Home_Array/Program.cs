@@ -298,6 +298,10 @@ internal class Program
 
         //StringBuilder sb = new StringBuilder("Hello ");
         //string text = "Abror";
+
+        //sb.Append(text);
+
+        //Console.WriteLine(sb.ToString());
     }
 
     public void Examples()
