@@ -173,7 +173,16 @@ internal class Program
         //    int middle = N / 2;
         //    int sum = 0;
 
+        //    for (int i = 0; i < N; i++)
+        //    {
+        //        // Summing elements in the middle row and middle column
+        //        sum += matrix[middle, i];  // middle row
+        //        sum += matrix[i, middle];  // middle column
 
+        //        // Summing elements on the main diagonals
+        //        sum += matrix[i, i];           // top-left to bottom-right diagonal
+        //        sum += matrix[i, N - i - 1];   // top-right to bottom-left diagonal
+        //    }
     }
 
     public void Examples()
